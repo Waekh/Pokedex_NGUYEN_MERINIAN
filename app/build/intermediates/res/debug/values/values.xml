@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Tino/Documents/Dev/Android/Pokedex_NGUYEN_MERINIAN-master/Pokedex_NGUYEN_MERINIAN/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/Tino/Documents/Dev/Android/Pokedex_NGUYEN_MERINIAN-master/Pokedex_NGUYEN_MERINIAN/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_help">Aide</string>
+    <string name="action_refresh">Rafraîchir</string>
+    <string name="action_viewPager">Bonus</string>
+    <string name="app_name">Pokédex NGUYEN/MERINIAN </string>
+    <string name="desc_about">
+        Pokedex est une application développée dans le cadre d\'un projet de développement mobile par Quang-Trung Nguyen et Nicolas Merinian.
+        Le but de cette application est d\'appliquer les notion vues en cours, notament les design pattern suivants:
+    </string>
+    <string name="desc_about2">
+        ActionBar, ListView, IntentService, BroadcastReceiver et ViewPager
+    </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="imageBag1">This bag:</string>
+    <string name="imageBag2">Can fit a bike and a fishing rod in it.</string>
+    <string name="manual">Mode d\'emploi</string>
+    <string name="manual2">
+        La fonction RAFRAÎCHIR dans l\'ActionBar permet de relancer la requête pour parser les données JSON dans la ListView
+    </string>
+    <string name="manual3">
+        La fonction BONUS dans l\'ActionBar permet d\'accéder au ViewPager constiué de trois Fragments: une image, le manuel utilisateur ainsi que la section A PROPOS de l\'application"
+    </string>
+    <string name="title_about">A propos de cette application</string>
+    <!-- From: file:/Users/Tino/Documents/Dev/Android/Pokedex_NGUYEN_MERINIAN-master/Pokedex_NGUYEN_MERINIAN/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

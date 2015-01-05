@@ -1,0 +1,2 @@
+/Users/Tino/Documents/Dev/Android/Pokedex_NGUYEN_MERINIAN-master/Pokedex_NGUYEN_MERINIAN/app/build/intermediates/classes/debug
+/Users/Tino/Documents/Dev/Android/Pokedex_NGUYEN_MERINIAN-master/Pokedex_NGUYEN_MERINIAN/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-ce93dab1f33b829338985642fe40a0912e36122d.jar

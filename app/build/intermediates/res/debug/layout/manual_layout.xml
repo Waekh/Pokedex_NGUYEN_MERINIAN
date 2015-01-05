@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/manual"
+        android:id="@+id/textView6"
+        android:layout_gravity="center_horizontal"
+        android:padding="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/manual2"
+        android:id="@+id/textView7"
+        android:layout_gravity="center_horizontal"
+        android:padding="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/manual3"
+        android:id="@+id/textView8"
+        android:layout_gravity="center_horizontal"
+        android:padding="25dp" />
+
+
+
+</LinearLayout><!-- From: file:/Users/Tino/Documents/Dev/Android/Pokedex_NGUYEN_MERINIAN-master/Pokedex_NGUYEN_MERINIAN/app/src/main/res/layout/manual_layout.xml -->
